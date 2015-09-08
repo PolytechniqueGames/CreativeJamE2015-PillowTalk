@@ -1,0 +1,81 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.AudioSpline.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.AudioSpline.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.Core.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.LoudnessMeter.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.LoudnessMeter.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.ModularSynth.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\Fabric.ModularSynth.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marie\Desktop\Pillow Talk\Pillow_Talk_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1590 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.556658 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 0.160111 ms (FindLiveObjects: 0.012316 ms CreateObjectMapping: 0.017105 ms MarkObjects: 0.124188 ms  DeleteObjects: 0.006158 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440305 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 14114.
+Total: 1.777303 ms (FindLiveObjects: 0.346565 ms CreateObjectMapping: 0.182348 ms MarkObjects: 1.191939 ms  DeleteObjects: 0.056449 ms)
+
+12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+RadiusDetection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.227263 ms
+
+Unloading 1119 unused Assets to reduce memory usage. Loaded Objects now: 509.
+Total: 1.637376 ms (FindLiveObjects: 0.060897 ms CreateObjectMapping: 0.060897 ms MarkObjects: 0.603496 ms  DeleteObjects: 0.911402 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.484781 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.593574 ms (FindLiveObjects: 0.033527 ms CreateObjectMapping: 0.015053 ms MarkObjects: 0.528230 ms  DeleteObjects: 0.016421 ms)
+
